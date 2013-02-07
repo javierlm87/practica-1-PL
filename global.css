@@ -1,0 +1,9 @@
+th          { vertical-align: top; text-align: right; font-size:large; }     
+td          { vertical-align: top; text-align: right; font-size:large; } 
+#converted  { color: red; font-weight: bold; font-size:large;          }    
+input       { color: black; text-align: right;  border: none; font-size:large;       }   
+body
+{
+ background-color:#FFFF33;  /* blue */
+ font-size:large;
+}
